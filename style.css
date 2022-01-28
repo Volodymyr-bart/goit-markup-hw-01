@@ -2,3 +2,19 @@
   display: flex;
   flex-direction: row;
 }
+.bussines {
+  background-color: #2f303a;
+}
+.command {
+  display: flex;
+  flex-direction: row;
+}
+
+.photo_command {
+  width: 270;
+  height: 368;
+}
+
+.footer {
+  background-color: #2f303a;
+}
