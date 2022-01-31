@@ -1,0 +1,62 @@
+.header {
+  display: flex;
+  flex-direction: row;
+}
+.Webstudio {
+  margin: 25px 93px 25px 215px;
+}
+
+.web {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 31px;
+  color: #2196f3;
+}
+
+.navigation {
+  display: flex;
+  flex-direction: row;
+  margin: 32px 331px 32px 93px;
+}
+.navigation_link {
+  margin: 0 50px;
+}
+.bussines {
+  background-color: #2f303a;
+}
+.bussines_h1 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 60px;
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #ffffff;
+  padding: 200px 452px 280px 40px;
+}
+
+.button {
+  margin: 40px 732px 210px 732px;
+  background-color: #2196f3;
+}
+
+.bussines_advantages {
+  display: flex;
+  flex-direction: row;
+}
+.command {
+  display: flex;
+  flex-direction: row;
+}
+
+.photo_command {
+  width: 270;
+  height: 368;
+}
+
+.footer {
+  background-color: #2f303a;
+}
