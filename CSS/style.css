@@ -46,7 +46,30 @@
 .bussines_advantages {
   display: flex;
   flex-direction: row;
+  margin: 94px 215px 94px 215px;
 }
+
+.bussines_advantages_h {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #212121;
+}
+
+.bussines_advantages_p {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #757575;
+  pad: 0 0 300px 0;
+}
+
 .command {
   display: flex;
   flex-direction: row;
